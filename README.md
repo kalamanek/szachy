@@ -1,5 +1,5 @@
 # Chess
 
 Funkcjonalności naszego programu są wypisane w pliku szachy.pdf,<br>
-natomiast wstępna rozpiska znajduje się w pliku TODO.pdf<br>
+natomiast rozpiska z planem projektu znajduje się w pliku Projekt.odt<br>
 Etapy to zdjęcie kartki z kolejnymi etapami do zrealizowania
